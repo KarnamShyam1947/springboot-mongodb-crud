@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot-mongodb
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: products
